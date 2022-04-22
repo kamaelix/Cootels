@@ -1,0 +1,1 @@
+{"version":3,"sources":["common.scss"],"names":[],"mappings":"AAAA;EACE;;;AAGF;EACE","file":"style.css","sourcesContent":[".site-navigation {\n  color: orange;\n}\n\nh2 {\n  color: red;\n}\n"]}
